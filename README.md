@@ -240,5 +240,3 @@ To analyze Instagram user interactions and operational metrics using SQL.
 
 ---
 
-This README file will make your **GitHub portfolio professional** and **easy for recruiters** to navigate! 🚀 Do you want any additional details or modifications?
-
