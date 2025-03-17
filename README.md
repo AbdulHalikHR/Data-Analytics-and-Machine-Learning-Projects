@@ -1,4 +1,4 @@
-# Portfolio Projects - README Templates
+# Python and MySQL based Projects:
 
 ## 1. Analyze Your Own Expenses
 ### 📌 Objective
@@ -218,22 +218,25 @@ Bank loan approval dataset
 
 ---
 
-## 11. Sentiment Analysis & SQL Projects
+## 11. SQL Projects (Instagram User Analytics & Operational Analysis)
 ### 📌 Objective
-To analyze sentiment from Twitter and perform SQL-based analytics.
+To analyze Instagram user interactions and operational metrics using SQL.
 
 ### 🛠️ Skills & Tech Stack
-- Python, NLP, SQL, MySQL
+- MySQL, SQL Queries, Data Analysis
 
 ### 📊 Dataset Details
-Twitter dataset, Instagram user analytics dataset
+- Instagram User Analytics Dataset
+- Operational Metrics Dataset
 
 ### 📈 Implementation Steps
-1. Sentiment Analysis using NLP
-2. SQL Queries for Data Analysis
+1. Data Cleaning & Normalization
+2. Writing Complex SQL Queries
+3. Performance Analysis & Optimization
 
 ### 🔍 Results & Insights
-- Extracted valuable business insights from user behavior
+- Identified key user engagement trends
+- Provided actionable insights for business growth
 
 ---
 
