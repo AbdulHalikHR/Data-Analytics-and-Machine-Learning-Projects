@@ -1,4 +1,8 @@
 ## Data Analytics Projects :
+### 1.	Analyze Your Own Expenses:
+### 2.	COVID-19 Data Analysis
+### 3.	Predict House Prices
+### 4.
 
 
 
