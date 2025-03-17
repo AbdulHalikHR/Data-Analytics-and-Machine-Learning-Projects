@@ -1,6 +1,6 @@
 ## Data Analytics Projects :
 ### 1. Analyze Your Own Expenses
--**Project Objective: **
+Project Objective: 
 ### 2. COVID-19 Data Analysis 
 ### 3. Titanic Survival Prediction
 ### 4. Spam Email Classifier 
