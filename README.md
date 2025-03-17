@@ -1,9 +1,16 @@
 ## Data Analytics Projects :
-### 1.	Analyze Your Own Expenses:
-### 2.	COVID-19 Data Analysis
-### 3.	Predict House Prices
-### 4.
-
+### 1. Analyze Your Own Expenses
+-**Project Objective: **
+### 2. COVID-19 Data Analysis 
+### 3. Titanic Survival Prediction
+### 4. Spam Email Classifier 
+### 5. Customer Segmentation
+### 6. Predict House Prices
+### 7. Fake News Detection
+### 8. Movie Recommendation System
+### 9.  Customer Churn Prediction
+### 10. Loan Approval
+### 11. Sentimental Analysis
 
 
 
